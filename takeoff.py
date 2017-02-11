@@ -14,4 +14,4 @@ def countdown_alt(n):
         print n
     print "Take"
     
-countdown_alt(3)
+countdown(7)

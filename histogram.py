@@ -8,3 +8,4 @@ def histogram(s):
     return d
     
 print histogram("hologram")
+print histogram("kakarrot")
