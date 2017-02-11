@@ -1,0 +1,4 @@
+def nothing():
+	pass
+
+nothing()
