@@ -9,3 +9,4 @@ def histogram(s):
     
 print histogram("hologram")
 print histogram("kakarrot")
+print histogram("mediastructure")
