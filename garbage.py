@@ -1,4 +1,0 @@
-def nothing():
-	pass
-
-nothing()
