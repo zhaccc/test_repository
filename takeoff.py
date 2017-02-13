@@ -15,3 +15,5 @@ def countdown_alt(n):
     print "Take"
     
 countdown(7)
+
+countdown_alt(777)
