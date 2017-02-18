@@ -16,4 +16,4 @@ def countdown_alt(n):
     
 countdown(7)
 
-countdown_alt(777)
+countdown_alt(7)
