@@ -6,5 +6,9 @@ for name in prefix:
         print name + "u" + sufix
     else:
         print name + sufix
+<<<<<<< Updated upstream
 
 # new branch lalala
+=======
+#test
+>>>>>>> Stashed changes
